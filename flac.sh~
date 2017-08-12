@@ -1,0 +1,2 @@
+#!/bin/sh
+../asrc/flac_Ridge example.inp
